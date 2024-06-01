@@ -1,0 +1,9 @@
+﻿  OpenGLanime.cpp
+C:\Users\takut\source\repos\OpenGLanime\OpenGLanime.cpp(24,18): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLanime\OpenGLanime.cpp(24,13): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLanime\OpenGLanime.cpp(27,19): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLanime\OpenGLanime.cpp(27,13): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLanime\OpenGLanime.cpp(30,18): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLanime\OpenGLanime.cpp(30,13): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLanime\OpenGLanime.cpp(33,18): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+  OpenGLanime.vcxproj -> C:\Users\takut\source\repos\OpenGLanime\x64\Debug\OpenGLanime.exe
