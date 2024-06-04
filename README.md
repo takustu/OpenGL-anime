@@ -4,4 +4,5 @@
 ![335793064-49a07c9e-d286-4a8f-8a72-ae6b32e49681](https://github.com/takustu/OpenGL-anime/assets/170791245/c74888eb-7d3c-487d-a8b9-0be64132e562)
 ![335793071-15311d32-b333-42a3-9242-3146af16bd1d](https://github.com/takustu/OpenGL-anime/assets/170791245/395c806c-beee-4c4b-87ac-ac9630e7f06a)<br>
 OpenGLを使ったアニメーションアプリ<br>
-右上に星が動きます
+右上に向かって星が動きます
+流れ星みたい
